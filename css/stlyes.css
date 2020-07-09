@@ -2,12 +2,21 @@ body{
     background-color: blueviolet;
 }
 img{
-    float: left;
+    float: right;
     height: 590px;
     width: 590px;
     border-right: violet;
+    flex-wrap: 20px;
 }
-h2{
+#projects{
+    text-align: center;
+}
+.name{
+    text-align: center;
+    -moz-text-size-adjust: 50px;
+    text-decoration: whitesmoke;
+}
+/*h2{
     text-align: center;
 }
 ul{
@@ -18,7 +27,7 @@ li{
 }
 p{
     text-align: center;
-}
+}*/
 span{
     color: yellowgreen;
 }
