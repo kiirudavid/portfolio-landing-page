@@ -1,5 +1,6 @@
 body{
     background-color: blueviolet;
+    overflow-y: hidden;
 }
 img{
     float: right;
@@ -7,6 +8,7 @@ img{
     width: 590px;
     border-right: violet;
     flex-wrap: 20px;
+    opacity: 2px; 
 }
 #projects{
     text-align: center;
@@ -16,10 +18,11 @@ img{
     -moz-text-size-adjust: 50px;
     text-decoration: whitesmoke;
 }
-/*h2{
+h2{
     text-align: center;
+     padding-bottom: 20px solid green;
 }
-ul{
+/*ul{
     text-align: center;
 }
 li{
@@ -30,4 +33,9 @@ p{
 }*/
 span{
     color: yellowgreen;
+}
+#footer{
+    text-align: center;
+    color: tomato;
+    text-align-last: justify;
 }
