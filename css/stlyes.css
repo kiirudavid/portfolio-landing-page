@@ -1,6 +1,7 @@
 body{
     background-color: blueviolet;
     overflow-y: hidden;
+    background-image: url();
 }
 img{
     float: right;
@@ -17,6 +18,7 @@ img{
     text-align: center;
     -moz-text-size-adjust: 50px;
     text-decoration: whitesmoke;
+    color: yellowgreen;
 }
 h2{
     text-align: center;
@@ -37,5 +39,5 @@ span{
 #footer{
     text-align: center;
     color: tomato;
-    text-align-last: justify;
+    margin-bottom: -300px;
 }
