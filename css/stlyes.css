@@ -3,7 +3,22 @@ body{
 }
 img{
     float: left;
+    height: 590px;
+    width: 590px;
+    border-right: violet;
 }
 h2{
     text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+span{
+    color: yellowgreen;
 }
