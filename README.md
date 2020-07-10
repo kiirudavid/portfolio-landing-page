@@ -8,7 +8,10 @@
 * creating files
 * creating live links
 ## Known Bugs{the page is not in responsive}
-## Technologies Used{ HTML and CSS for styling}
+## Technologies Used
+* HTML
+* CSS
+* javascript
 ## Support and contact details
 * incase of anythig feel free to contact me via davidmaina085@gmail.com
 ### License
