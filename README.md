@@ -14,4 +14,4 @@
 * javascript
 ## Support and contact details
 * incase of anythig feel free to contact me via davidmaina085@gmail.com
-### License
+
