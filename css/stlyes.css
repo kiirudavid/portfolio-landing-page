@@ -22,6 +22,7 @@ img{
     -moz-text-size-adjust: 50px;
     text-decoration: whitesmoke;
     color: yellowgreen;
+    font-style: italic;
 }
 h2{
     text-align: center;
@@ -59,4 +60,5 @@ a{
 }
 ol>li {
     color: maroon;
+    font-weight: bold;
 }
