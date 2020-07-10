@@ -40,11 +40,18 @@ p{
     color: violet;
 }
 .link{
-    color: yellowgreen;
+    color: blueviolet;
 }
 #footer{
     text-align: center;
     color: tomato;
     margin-bottom: -300px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover{
+    color: darkred;
+    background-color: yellowgreen;
+}
+a{
+    color: blue;
 }
